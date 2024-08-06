@@ -3,18 +3,16 @@ Salve, sou o Pedro Augusto
 
 -> ⚔️Nerd/Geek 
 
--> 🎓5º Semestre de Engenharia da Computação
+-> 🎓Engenharia da Computação em 2024
 
 -> 💻Atualmente estagiando na UNITEC - Servço Técnico 
 
 
--> 📚Conhecimentos nas liguagens: C/C++
-
--> 📗Interresado em aprender: Phyton, React, Float, Java, SQL
+-> 📚Conhecimentos nas liguagens: C/C++, PHP
 
 -> 🤔 Interesado no estudo de Hardware
 
--> 📩: peterprates52@gmail.com
+-> 📩: pedroalp52@gmail.com
 
 ##
 
